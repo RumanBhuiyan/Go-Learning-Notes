@@ -1,4 +1,7 @@
 # MY Go Learning Notes
+> ## [Hackerrank Certificate](https://www.hackerrank.com/certificates/75ae06038255)
+>  <img src="./certificate.png" /> <br>
+
 > ## Hello World
 ```go
       // differences between Println() and Printf()
