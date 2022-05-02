@@ -1,0 +1,20 @@
+Issue no - 01: (one true brace style)
+--------------------------------------
+func main(){
+    fmt.Println("Hello!")
+}
+
+This code will work file but
+
+func main()
+{
+    fmt.Println("Hello!")
+}
+
+This code wont work because we don't put semicolon in end of every statement though
+go places semicolon by itself at end of every statement. That's why when we code like
+above then go will place a semicolon like func main(); and as it is function without
+body. Go will throw missing function body error. That's why we can't put opening curly 
+braces in a newline. As a result we should follow 'one true brace style' rule in Go.
+
+* There are only 25 keywords in Go.

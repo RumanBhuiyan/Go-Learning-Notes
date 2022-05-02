@@ -1,0 +1,7 @@
+
+For running go file : go run <file_name_with_go_extension>
+example             : go run main.go 
+
+go build <file_name> make the executable file of that go file
+example : go build main.go
+this will create main.exe(executable file ) which can be run in any platform
